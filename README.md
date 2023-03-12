@@ -5,7 +5,7 @@ I am currently learning Javascript.
 I am also an open-source enthusiast and maintainer. I am exploring the opensources.
 
 languages and tools:
-HTML, CSS5, Javascript, Java, Git, Gitub, Latex, Excel
+HTML5, CSS3, Javascript, Java, Git, Gitub, Latex, Excel
 
 🤔 I’m looking for guidance with open sources.
 
