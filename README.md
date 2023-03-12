@@ -1,16 +1,22 @@
 ### Hi there 👋
+I'm Adarsh Gupta, a passionate self-taught Front end web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am currently learning Javascript.
 
-<!--
-**adarshAD6394/adarshAD6394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am also an open-source enthusiast and maintainer. I am exploring the opensources.
 
-Here are some ideas to get you started:
+languages and tools:
+HTML, CSS5, Javascript, Java, Git, Gitub, Latex, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for guidance with open sources.
+
+💬 Ask me about anything, I am ready to help
+
+📫 How to reach me: ... Email-guptaadarsh372001@gmail.com
+                        Discord- https://discord.com/channels/@me
+                        
+ 😄 Pronouns: He/Him
+ 
+ ⚡ Fun fact: love dance and code at the same time.
+ 
+
+
