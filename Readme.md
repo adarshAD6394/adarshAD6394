@@ -13,7 +13,6 @@ I  MERN | MEAN | As Full-stack developer.
 
 <div>
   <p><h4>Languages : </h4>
-  <div>
   <a href="https://github.com/kartos102">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   </a>
@@ -30,7 +29,6 @@ I  MERN | MEAN | As Full-stack developer.
   <a href="https://github.com/adarshAD6394">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   </a>
-</div>
     </p>
 </div>
 
