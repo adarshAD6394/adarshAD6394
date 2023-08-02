@@ -1,4 +1,4 @@
-<h2>**Hi there! 👋 I'm Adarsh Gupta**</h2>
+<h2 text-align="centre">**Hi there! 👋 I'm Adarsh Gupta**</h2>
 <h4>I am a passionate, self-taught Full Stack Web Developer. My passion for software lies with dreaming up the ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 I am currently learning Blockchain and Solidity.</h4>
 <h4>I am an open-source enthusiast. I am exploring the blockchain and Web 3.O.</h4>
