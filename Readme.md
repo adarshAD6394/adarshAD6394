@@ -6,42 +6,38 @@ I  MERN | MEAN | As Full-stack developer.
 
 
 
-<h2 align="left">Languages & Status</h2>
+<h2 align="left">Languages & Stacks</h2>
 
-
-<!-- <p>
-  <img alt="status" src="https://github.com/adarshAD6394" /> 
-</p> -->
-
-
-<!--<div>
-  <a href="https://github.com/adarshAD6394">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
-  </a>
-</div> -->
 
 <!-- Languages -->
 
 <div>
-  <p><h>Languages : </h>
-  <a href="https://github.com/adarshAD6394">
+  <p><h4>Languages : </h4>
+  <div>
+  <a href="https://github.com/kartos102">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   </a>
-  <a href="https://github.com/adarshAD6394">
-    <img alt="Java" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <a href="https://github.com/kartos102">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   </a>
-  <a href="https://github.com/adarshAD6394">
+  <a href="https://github.com/kartos102">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
   </a>
+  <a href="https://github.com/kartos102">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+    </a>
   <a href="https://github.com/adarshAD6394">
-    <img alt="C" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   </a>
 </div>
-</p>
+    </p>
+</div>
 
-<!-- Languages -->
+<!-- Frameworks -->
 
 <div>
+   <p><h4>Frameworks : </h4>
   <a href="https://github.com/adarshAD6394">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   </a>
@@ -59,14 +55,20 @@ I  MERN | MEAN | As Full-stack developer.
   </a>
   <a href="https://github.com/adarshAD6394">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
-  </a>
-  <a href="https://github.com/adarshAD6394">
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  </a>
+    </a>
   <a href="https://github.com/adarshAD6394">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   </a>
+  <a href="https://github.com/adarshAD6394">
+    <img alt="BootStrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>
+  <a href="https://github.com/adarshAD6394">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a>
+   </p>
 </div>
+
+   <!-- Tools --> 
 <div>
   <a href="https://github.com/adarshAD6394">
     <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
@@ -77,29 +79,7 @@ I  MERN | MEAN | As Full-stack developer.
   <a href="https://github.com/adarshAD6394">  
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   </a>
-</div>
-<div>
-  <a href="https://github.com/adarshAD6394">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
-  </a>
-  <a href="https://github.com/adarshAD6394">
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
-  </a>
-  <a href="https://github.com/adarshAD6394">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://github.com/adarshAD6394">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/adarshAD6394">  
-    <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  </a>
-  <a href="https://github.com/adarshAD6394">  
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
-  </a>
-  <a href="https://github.com/adarshAD6394">  
+   <a href="https://github.com/adarshAD6394">  
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   </a>
   <a href="https://github.com/adarshAD6394">  
@@ -111,10 +91,37 @@ I  MERN | MEAN | As Full-stack developer.
   <a href="https://github.com/adarshAD6394">  
     <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   </a>
+  <a href="https://github.com/adarshAD6394">  
+    <img alt="VS code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </a>
+  
 </div>
 
 
-<!-- <h3 align="center">I am available now and can start right now.</h3> -->
+<div>
+  <a href="https://github.com/adarshAD6394">
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://github.com/adarshAD6394">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://github.com/adarshAD6394">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  </a>
+</div>
+
+
+<div>
+  <a href="https://github.com/adarshAD6394">  
+    <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://github.com/adarshAD6394">  
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  </a>
+ 
+</div>
+
+
 
 
 
