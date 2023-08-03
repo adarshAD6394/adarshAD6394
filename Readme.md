@@ -1,3 +1,9 @@
+
+<h2 align="centre">Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Adarsh Gupta</h2>
+<p align="centre">
+Nice to meet you!  <br/>
+I  MERN | MEAN | As Full-stack developer.
+</p>
 # 💫 About Me:
 🔭 I’m currently working on my dev skills. <br>👯 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with open source.<br>🌱 I’m currently learning Blockchain and web 3.0<br>💬 Ask me about Web Dev<br>⚡ Fun fact love dance and code.
 
