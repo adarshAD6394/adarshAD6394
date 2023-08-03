@@ -1,8 +1,7 @@
-<div style="text-align:centre;">
+<div align="centre">
 <h2 align="centre">Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Adarsh Gupta</h2>
 <p align="centre">
 Nice to meet you!  <br/>
-I  MERN | MEAN | As Full-stack developer.
 </p>
   </div>
 # 💫 About Me:
